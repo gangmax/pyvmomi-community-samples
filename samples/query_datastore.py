@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# William Lam
-# www.virtuallyghetto.com
+# Max Huang 
 
 """
 vSphere Python SDK program for listing Datastores in Datastore Cluster
